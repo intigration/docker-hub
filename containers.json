@@ -1,6 +1,9 @@
 [
   {
     "type": 1,
+    "description": "container image for atc-demo",
+    "name": "atc-demo",
+    "title": "M3_Edge_atc-demo",
     "image": "registry.m3-solutions.io:8443/atc-demo",
     "categories": [],
     "restart_policy": "always",
@@ -26,6 +29,9 @@
   },
   {
     "type": 1,
+    "description": "container image for atc-demo-coap",
+    "name": "atc-demo-coap",
+    "title": "M3_Edge_atc-demo-coap",
     "image": "registry.m3-solutions.io:8443/atc-demo-coap",
     "categories": [],
     "restart_policy": "always",
@@ -51,6 +57,9 @@
   },
   {
     "type": 1,
+    "description": "container image for atc-demo-coap-x86_64",
+    "name": "atc-demo-coap-x86_64",
+    "title": "M3_Edge_atc-demo-coap-x86_64",
     "image": "registry.m3-solutions.io:8443/atc-demo-coap-x86_64",
     "categories": [],
     "restart_policy": "always",
@@ -76,6 +85,9 @@
   },
   {
     "type": 1,
+    "description": "container image for atc-demo-x86-64-x86_64",
+    "name": "atc-demo-x86-64-x86_64",
+    "title": "M3_Edge_atc-demo-x86-64-x86_64",
     "image": "registry.m3-solutions.io:8443/atc-demo-x86-64-x86_64",
     "categories": [],
     "restart_policy": "always",
@@ -101,6 +113,9 @@
   },
   {
     "type": 1,
+    "description": "container image for atc-demo-x86_64",
+    "name": "atc-demo-x86_64",
+    "title": "M3_Edge_atc-demo-x86_64",
     "image": "registry.m3-solutions.io:8443/atc-demo-x86_64",
     "categories": [],
     "restart_policy": "always",
@@ -126,6 +141,9 @@
   },
   {
     "type": 1,
+    "description": "container image for audio-classifier-image",
+    "name": "audio-classifier-image",
+    "title": "M3_Edge_audio-classifier-image",
     "image": "registry.m3-solutions.io:8443/audio-classifier-image",
     "categories": [],
     "restart_policy": "always",
@@ -151,6 +169,9 @@
   },
   {
     "type": 1,
+    "description": "container image for audio-classifier-image-x86_64",
+    "name": "audio-classifier-image-x86_64",
+    "title": "M3_Edge_audio-classifier-image-x86_64",
     "image": "registry.m3-solutions.io:8443/audio-classifier-image-x86_64",
     "categories": [],
     "restart_policy": "always",
@@ -176,6 +197,9 @@
   },
   {
     "type": 1,
+    "description": "container image for audio-classifier-neo-image-x86_64",
+    "name": "audio-classifier-neo-image-x86_64",
+    "title": "M3_Edge_audio-classifier-neo-image-x86_64",
     "image": "registry.m3-solutions.io:8443/audio-classifier-neo-image-x86_64",
     "categories": [],
     "restart_policy": "always",
@@ -201,6 +225,9 @@
   },
   {
     "type": 1,
+    "description": "container image for audio-compressor-x86_64",
+    "name": "audio-compressor-x86_64",
+    "title": "M3_Edge_audio-compressor-x86_64",
     "image": "registry.m3-solutions.io:8443/audio-compressor-x86_64",
     "categories": [],
     "restart_policy": "always",
@@ -226,6 +253,9 @@
   },
   {
     "type": 1,
+    "description": "container image for audio-filer-image-x86_64",
+    "name": "audio-filer-image-x86_64",
+    "title": "M3_Edge_audio-filer-image-x86_64",
     "image": "registry.m3-solutions.io:8443/audio-filer-image-x86_64",
     "categories": [],
     "restart_policy": "always",
@@ -251,6 +281,9 @@
   },
   {
     "type": 1,
+    "description": "container image for busybox",
+    "name": "busybox",
+    "title": "M3_Edge_busybox",
     "image": "registry.m3-solutions.io:8443/busybox",
     "categories": [],
     "restart_policy": "always",
@@ -276,6 +309,9 @@
   },
   {
     "type": 1,
+    "description": "container image for channels",
+    "name": "channels",
+    "title": "M3_Edge_channels",
     "image": "registry.m3-solutions.io:8443/channels",
     "categories": [],
     "restart_policy": "always",
@@ -301,6 +337,9 @@
   },
   {
     "type": 1,
+    "description": "container image for classifier-simulator-image",
+    "name": "classifier-simulator-image",
+    "title": "M3_Edge_classifier-simulator-image",
     "image": "registry.m3-solutions.io:8443/classifier-simulator-image",
     "categories": [],
     "restart_policy": "always",
@@ -326,6 +365,9 @@
   },
   {
     "type": 1,
+    "description": "container image for classifier-simulator-image-x86_64",
+    "name": "classifier-simulator-image-x86_64",
+    "title": "M3_Edge_classifier-simulator-image-x86_64",
     "image": "registry.m3-solutions.io:8443/classifier-simulator-image-x86_64",
     "categories": [],
     "restart_policy": "always",
@@ -351,6 +393,9 @@
   },
   {
     "type": 1,
+    "description": "container image for core",
+    "name": "core",
+    "title": "M3_Edge_core",
     "image": "registry.m3-solutions.io:8443/core",
     "categories": [],
     "restart_policy": "always",
@@ -376,6 +421,9 @@
   },
   {
     "type": 1,
+    "description": "container image for csp-eapps-microservice-x86_64",
+    "name": "csp-eapps-microservice-x86_64",
+    "title": "M3_Edge_csp-eapps-microservice-x86_64",
     "image": "registry.m3-solutions.io:8443/csp-eapps-microservice-x86_64",
     "categories": [],
     "restart_policy": "always",
@@ -401,6 +449,9 @@
   },
   {
     "type": 1,
+    "description": "container image for csp-eapps-proxy-x86_64",
+    "name": "csp-eapps-proxy-x86_64",
+    "title": "M3_Edge_csp-eapps-proxy-x86_64",
     "image": "registry.m3-solutions.io:8443/csp-eapps-proxy-x86_64",
     "categories": [],
     "restart_policy": "always",
@@ -426,6 +477,9 @@
   },
   {
     "type": 1,
+    "description": "container image for csp-iotdata-microservice-x86_64",
+    "name": "csp-iotdata-microservice-x86_64",
+    "title": "M3_Edge_csp-iotdata-microservice-x86_64",
     "image": "registry.m3-solutions.io:8443/csp-iotdata-microservice-x86_64",
     "categories": [],
     "restart_policy": "always",
@@ -451,6 +505,9 @@
   },
   {
     "type": 1,
+    "description": "container image for csp-iotevent-microservice-x86_64",
+    "name": "csp-iotevent-microservice-x86_64",
+    "title": "M3_Edge_csp-iotevent-microservice-x86_64",
     "image": "registry.m3-solutions.io:8443/csp-iotevent-microservice-x86_64",
     "categories": [],
     "restart_policy": "always",
@@ -476,6 +533,9 @@
   },
   {
     "type": 1,
+    "description": "container image for cspagent-context-teller-x86_64",
+    "name": "cspagent-context-teller-x86_64",
+    "title": "M3_Edge_cspagent-context-teller-x86_64",
     "image": "registry.m3-solutions.io:8443/cspagent-context-teller-x86_64",
     "categories": [],
     "restart_policy": "always",
@@ -501,6 +561,9 @@
   },
   {
     "type": 1,
+    "description": "container image for dlr-image-x86_64",
+    "name": "dlr-image-x86_64",
+    "title": "M3_Edge_dlr-image-x86_64",
     "image": "registry.m3-solutions.io:8443/dlr-image-x86_64",
     "categories": [],
     "restart_policy": "always",
@@ -526,6 +589,9 @@
   },
   {
     "type": 1,
+    "description": "container image for eapps-db",
+    "name": "eapps-db",
+    "title": "M3_Edge_eapps-db",
     "image": "registry.m3-solutions.io:8443/eapps-db",
     "categories": [],
     "restart_policy": "always",
@@ -551,6 +617,9 @@
   },
   {
     "type": 1,
+    "description": "container image for eapps-db-aarch64",
+    "name": "eapps-db-aarch64",
+    "title": "M3_Edge_eapps-db-aarch64",
     "image": "registry.m3-solutions.io:8443/eapps-db-aarch64",
     "categories": [],
     "restart_policy": "always",
@@ -576,6 +645,9 @@
   },
   {
     "type": 1,
+    "description": "container image for eapps-db-x86_64",
+    "name": "eapps-db-x86_64",
+    "title": "M3_Edge_eapps-db-x86_64",
     "image": "registry.m3-solutions.io:8443/eapps-db-x86_64",
     "categories": [],
     "restart_policy": "always",
@@ -601,6 +673,9 @@
   },
   {
     "type": 1,
+    "description": "container image for eapps-dbclient",
+    "name": "eapps-dbclient",
+    "title": "M3_Edge_eapps-dbclient",
     "image": "registry.m3-solutions.io:8443/eapps-dbclient",
     "categories": [],
     "restart_policy": "always",
@@ -626,6 +701,9 @@
   },
   {
     "type": 1,
+    "description": "container image for eapps-dev-test-image",
+    "name": "eapps-dev-test-image",
+    "title": "M3_Edge_eapps-dev-test-image",
     "image": "registry.m3-solutions.io:8443/eapps-dev-test-image",
     "categories": [],
     "restart_policy": "always",
@@ -651,6 +729,9 @@
   },
   {
     "type": 1,
+    "description": "container image for eapps-dev-test-image-x86_64",
+    "name": "eapps-dev-test-image-x86_64",
+    "title": "M3_Edge_eapps-dev-test-image-x86_64",
     "image": "registry.m3-solutions.io:8443/eapps-dev-test-image-x86_64",
     "categories": [],
     "restart_policy": "always",
@@ -676,6 +757,9 @@
   },
   {
     "type": 1,
+    "description": "container image for eapps-download-test",
+    "name": "eapps-download-test",
+    "title": "M3_Edge_eapps-download-test",
     "image": "registry.m3-solutions.io:8443/eapps-download-test",
     "categories": [],
     "restart_policy": "always",
@@ -701,6 +785,9 @@
   },
   {
     "type": 1,
+    "description": "container image for eapps-managed-broker-test",
+    "name": "eapps-managed-broker-test",
+    "title": "M3_Edge_eapps-managed-broker-test",
     "image": "registry.m3-solutions.io:8443/eapps-managed-broker-test",
     "categories": [],
     "restart_policy": "always",
@@ -726,6 +813,9 @@
   },
   {
     "type": 1,
+    "description": "container image for eapps-upload-test",
+    "name": "eapps-upload-test",
+    "title": "M3_Edge_eapps-upload-test",
     "image": "registry.m3-solutions.io:8443/eapps-upload-test",
     "categories": [],
     "restart_policy": "always",
@@ -751,6 +841,9 @@
   },
   {
     "type": 1,
+    "description": "container image for event-logger-x86_64",
+    "name": "event-logger-x86_64",
+    "title": "M3_Edge_event-logger-x86_64",
     "image": "registry.m3-solutions.io:8443/event-logger-x86_64",
     "categories": [],
     "restart_policy": "always",
@@ -776,6 +869,9 @@
   },
   {
     "type": 1,
+    "description": "container image for generic-controller-image",
+    "name": "generic-controller-image",
+    "title": "M3_Edge_generic-controller-image",
     "image": "registry.m3-solutions.io:8443/generic-controller-image",
     "categories": [],
     "restart_policy": "always",
@@ -801,6 +897,9 @@
   },
   {
     "type": 1,
+    "description": "container image for generic-controller-image-x86_64",
+    "name": "generic-controller-image-x86_64",
+    "title": "M3_Edge_generic-controller-image-x86_64",
     "image": "registry.m3-solutions.io:8443/generic-controller-image-x86_64",
     "categories": [],
     "restart_policy": "always",
@@ -826,6 +925,9 @@
   },
   {
     "type": 1,
+    "description": "container image for hamlet-controller-managed-image",
+    "name": "hamlet-controller-managed-image",
+    "title": "M3_Edge_hamlet-controller-managed-image",
     "image": "registry.m3-solutions.io:8443/hamlet-controller-managed-image",
     "categories": [],
     "restart_policy": "always",
@@ -851,6 +953,9 @@
   },
   {
     "type": 1,
+    "description": "container image for hamlet-controller-managed-image-aarch64",
+    "name": "hamlet-controller-managed-image-aarch64",
+    "title": "M3_Edge_hamlet-controller-managed-image-aarch64",
     "image": "registry.m3-solutions.io:8443/hamlet-controller-managed-image-aarch64",
     "categories": [],
     "restart_policy": "always",
@@ -876,6 +981,9 @@
   },
   {
     "type": 1,
+    "description": "container image for hamlet-controller-managed-image-x86-x86_64",
+    "name": "hamlet-controller-managed-image-x86-x86_64",
+    "title": "M3_Edge_hamlet-controller-managed-image-x86-x86_64",
     "image": "registry.m3-solutions.io:8443/hamlet-controller-managed-image-x86-x86_64",
     "categories": [],
     "restart_policy": "always",
@@ -901,6 +1009,9 @@
   },
   {
     "type": 1,
+    "description": "container image for hamlet-controller-managed-image-x86_64",
+    "name": "hamlet-controller-managed-image-x86_64",
+    "title": "M3_Edge_hamlet-controller-managed-image-x86_64",
     "image": "registry.m3-solutions.io:8443/hamlet-controller-managed-image-x86_64",
     "categories": [],
     "restart_policy": "always",
@@ -926,6 +1037,9 @@
   },
   {
     "type": 1,
+    "description": "container image for hamlet-data-tenant-image",
+    "name": "hamlet-data-tenant-image",
+    "title": "M3_Edge_hamlet-data-tenant-image",
     "image": "registry.m3-solutions.io:8443/hamlet-data-tenant-image",
     "categories": [],
     "restart_policy": "always",
@@ -951,6 +1065,9 @@
   },
   {
     "type": 1,
+    "description": "container image for hamlet-data-tenant-image-x86_64",
+    "name": "hamlet-data-tenant-image-x86_64",
+    "title": "M3_Edge_hamlet-data-tenant-image-x86_64",
     "image": "registry.m3-solutions.io:8443/hamlet-data-tenant-image-x86_64",
     "categories": [],
     "restart_policy": "always",
@@ -976,6 +1093,9 @@
   },
   {
     "type": 1,
+    "description": "container image for hamlet-greengrass-image",
+    "name": "hamlet-greengrass-image",
+    "title": "M3_Edge_hamlet-greengrass-image",
     "image": "registry.m3-solutions.io:8443/hamlet-greengrass-image",
     "categories": [],
     "restart_policy": "always",
@@ -1001,6 +1121,9 @@
   },
   {
     "type": 1,
+    "description": "container image for hamlet-greengrass-image-x86_64",
+    "name": "hamlet-greengrass-image-x86_64",
+    "title": "M3_Edge_hamlet-greengrass-image-x86_64",
     "image": "registry.m3-solutions.io:8443/hamlet-greengrass-image-x86_64",
     "categories": [],
     "restart_policy": "always",
@@ -1026,6 +1149,9 @@
   },
   {
     "type": 1,
+    "description": "container image for hello-app",
+    "name": "hello-app",
+    "title": "M3_Edge_hello-app",
     "image": "registry.m3-solutions.io:8443/hello-app",
     "categories": [],
     "restart_policy": "always",
@@ -1051,6 +1177,9 @@
   },
   {
     "type": 1,
+    "description": "container image for i3s-dyn-loader",
+    "name": "i3s-dyn-loader",
+    "title": "M3_Edge_i3s-dyn-loader",
     "image": "registry.m3-solutions.io:8443/i3s-dyn-loader",
     "categories": [],
     "restart_policy": "always",
@@ -1076,6 +1205,9 @@
   },
   {
     "type": 1,
+    "description": "container image for i3s-dyn-loader-x86_64",
+    "name": "i3s-dyn-loader-x86_64",
+    "title": "M3_Edge_i3s-dyn-loader-x86_64",
     "image": "registry.m3-solutions.io:8443/i3s-dyn-loader-x86_64",
     "categories": [],
     "restart_policy": "always",
@@ -1101,6 +1233,9 @@
   },
   {
     "type": 1,
+    "description": "container image for i3s-network-data-generators-x86_64",
+    "name": "i3s-network-data-generators-x86_64",
+    "title": "M3_Edge_i3s-network-data-generators-x86_64",
     "image": "registry.m3-solutions.io:8443/i3s-network-data-generators-x86_64",
     "categories": [],
     "restart_policy": "always",
@@ -1126,6 +1261,9 @@
   },
   {
     "type": 1,
+    "description": "container image for icube-app-x86_64",
+    "name": "icube-app-x86_64",
+    "title": "M3_Edge_icube-app-x86_64",
     "image": "registry.m3-solutions.io:8443/icube-app-x86_64",
     "categories": [],
     "restart_policy": "always",
@@ -1151,6 +1289,9 @@
   },
   {
     "type": 1,
+    "description": "container image for icube-demo-x86_64",
+    "name": "icube-demo-x86_64",
+    "title": "M3_Edge_icube-demo-x86_64",
     "image": "registry.m3-solutions.io:8443/icube-demo-x86_64",
     "categories": [],
     "restart_policy": "always",
@@ -1176,6 +1317,9 @@
   },
   {
     "type": 1,
+    "description": "container image for krill-controller-image-x86_64",
+    "name": "krill-controller-image-x86_64",
+    "title": "M3_Edge_krill-controller-image-x86_64",
     "image": "registry.m3-solutions.io:8443/krill-controller-image-x86_64",
     "categories": [],
     "restart_policy": "always",
@@ -1201,6 +1345,9 @@
   },
   {
     "type": 1,
+    "description": "container image for m3-am-services",
+    "name": "m3-am-services",
+    "title": "M3_Edge_m3-am-services",
     "image": "registry.m3-solutions.io:8443/m3-am-services",
     "categories": [],
     "restart_policy": "always",
@@ -1226,6 +1373,9 @@
   },
   {
     "type": 1,
+    "description": "container image for m3-api-manager",
+    "name": "m3-api-manager",
+    "title": "M3_Edge_m3-api-manager",
     "image": "registry.m3-solutions.io:8443/m3-api-manager",
     "categories": [],
     "restart_policy": "always",
@@ -1251,6 +1401,9 @@
   },
   {
     "type": 1,
+    "description": "container image for m3-gateway-agent",
+    "name": "m3-gateway-agent",
+    "title": "M3_Edge_m3-gateway-agent",
     "image": "registry.m3-solutions.io:8443/m3-gateway-agent",
     "categories": [],
     "restart_policy": "always",
@@ -1276,6 +1429,9 @@
   },
   {
     "type": 1,
+    "description": "container image for m3-gateway-iiot-core",
+    "name": "m3-gateway-iiot-core",
+    "title": "M3_Edge_m3-gateway-iiot-core",
     "image": "registry.m3-solutions.io:8443/m3-gateway-iiot-core",
     "categories": [],
     "restart_policy": "always",
@@ -1301,6 +1457,9 @@
   },
   {
     "type": 1,
+    "description": "container image for managed-broker",
+    "name": "managed-broker",
+    "title": "M3_Edge_managed-broker",
     "image": "registry.m3-solutions.io:8443/managed-broker",
     "categories": [],
     "restart_policy": "always",
@@ -1326,6 +1485,9 @@
   },
   {
     "type": 1,
+    "description": "container image for managed-broker-aarch64",
+    "name": "managed-broker-aarch64",
+    "title": "M3_Edge_managed-broker-aarch64",
     "image": "registry.m3-solutions.io:8443/managed-broker-aarch64",
     "categories": [],
     "restart_policy": "always",
@@ -1351,6 +1513,9 @@
   },
   {
     "type": 1,
+    "description": "container image for managed-broker-huz-x86_64",
+    "name": "managed-broker-huz-x86_64",
+    "title": "M3_Edge_managed-broker-huz-x86_64",
     "image": "registry.m3-solutions.io:8443/managed-broker-huz-x86_64",
     "categories": [],
     "restart_policy": "always",
@@ -1376,6 +1541,9 @@
   },
   {
     "type": 1,
+    "description": "container image for managed-broker-x86_64",
+    "name": "managed-broker-x86_64",
+    "title": "M3_Edge_managed-broker-x86_64",
     "image": "registry.m3-solutions.io:8443/managed-broker-x86_64",
     "categories": [],
     "restart_policy": "always",
@@ -1401,6 +1569,9 @@
   },
   {
     "type": 1,
+    "description": "container image for message-bus-x86_64",
+    "name": "message-bus-x86_64",
+    "title": "M3_Edge_message-bus-x86_64",
     "image": "registry.m3-solutions.io:8443/message-bus-x86_64",
     "categories": [],
     "restart_policy": "always",
@@ -1426,6 +1597,9 @@
   },
   {
     "type": 1,
+    "description": "container image for nginx-x86_64",
+    "name": "nginx-x86_64",
+    "title": "M3_Edge_nginx-x86_64",
     "image": "registry.m3-solutions.io:8443/nginx-x86_64",
     "categories": [],
     "restart_policy": "always",
@@ -1451,6 +1625,9 @@
   },
   {
     "type": 1,
+    "description": "container image for node-eapp",
+    "name": "node-eapp",
+    "title": "M3_Edge_node-eapp",
     "image": "registry.m3-solutions.io:8443/node-eapp",
     "categories": [],
     "restart_policy": "always",
@@ -1476,6 +1653,9 @@
   },
   {
     "type": 1,
+    "description": "container image for node-red-x86_64",
+    "name": "node-red-x86_64",
+    "title": "M3_Edge_node-red-x86_64",
     "image": "registry.m3-solutions.io:8443/node-red-x86_64",
     "categories": [],
     "restart_policy": "always",
@@ -1501,6 +1681,9 @@
   },
   {
     "type": 1,
+    "description": "container image for onvif-client-openvino-x86_64",
+    "name": "onvif-client-openvino-x86_64",
+    "title": "M3_Edge_onvif-client-openvino-x86_64",
     "image": "registry.m3-solutions.io:8443/onvif-client-openvino-x86_64",
     "categories": [],
     "restart_policy": "always",
@@ -1526,6 +1709,9 @@
   },
   {
     "type": 1,
+    "description": "container image for openvino-classification-demo-image-x86_64",
+    "name": "openvino-classification-demo-image-x86_64",
+    "title": "M3_Edge_openvino-classification-demo-image-x86_64",
     "image": "registry.m3-solutions.io:8443/openvino-classification-demo-image-x86_64",
     "categories": [],
     "restart_policy": "always",
@@ -1551,6 +1737,9 @@
   },
   {
     "type": 1,
+    "description": "container image for openvino-python-x86_64",
+    "name": "openvino-python-x86_64",
+    "title": "M3_Edge_openvino-python-x86_64",
     "image": "registry.m3-solutions.io:8443/openvino-python-x86_64",
     "categories": [],
     "restart_policy": "always",
@@ -1576,6 +1765,9 @@
   },
   {
     "type": 1,
+    "description": "container image for ov-manager-x86_64",
+    "name": "ov-manager-x86_64",
+    "title": "M3_Edge_ov-manager-x86_64",
     "image": "registry.m3-solutions.io:8443/ov-manager-x86_64",
     "categories": [],
     "restart_policy": "always",
@@ -1601,6 +1793,9 @@
   },
   {
     "type": 1,
+    "description": "container image for python3",
+    "name": "python3",
+    "title": "M3_Edge_python3",
     "image": "registry.m3-solutions.io:8443/python3",
     "categories": [],
     "restart_policy": "always",
@@ -1626,6 +1821,9 @@
   },
   {
     "type": 1,
+    "description": "container image for qa-acoustic-feature-extractor",
+    "name": "qa-acoustic-feature-extractor",
+    "title": "M3_Edge_qa-acoustic-feature-extractor",
     "image": "registry.m3-solutions.io:8443/qa-acoustic-feature-extractor",
     "categories": [],
     "restart_policy": "always",
@@ -1651,6 +1849,9 @@
   },
   {
     "type": 1,
+    "description": "container image for qa-mlfm-core",
+    "name": "qa-mlfm-core",
+    "title": "M3_Edge_qa-mlfm-core",
     "image": "registry.m3-solutions.io:8443/qa-mlfm-core",
     "categories": [],
     "restart_policy": "always",
@@ -1676,6 +1877,9 @@
   },
   {
     "type": 1,
+    "description": "container image for qa-mlfm-kfpa",
+    "name": "qa-mlfm-kfpa",
+    "title": "M3_Edge_qa-mlfm-kfpa",
     "image": "registry.m3-solutions.io:8443/qa-mlfm-kfpa",
     "categories": [],
     "restart_policy": "always",
@@ -1701,6 +1905,9 @@
   },
   {
     "type": 1,
+    "description": "container image for qa-mlfm-ui",
+    "name": "qa-mlfm-ui",
+    "title": "M3_Edge_qa-mlfm-ui",
     "image": "registry.m3-solutions.io:8443/qa-mlfm-ui",
     "categories": [],
     "restart_policy": "always",
@@ -1726,6 +1933,9 @@
   },
   {
     "type": 1,
+    "description": "container image for qa-sanity-deployer",
+    "name": "qa-sanity-deployer",
+    "title": "M3_Edge_qa-sanity-deployer",
     "image": "registry.m3-solutions.io:8443/qa-sanity-deployer",
     "categories": [],
     "restart_policy": "always",
@@ -1751,6 +1961,9 @@
   },
   {
     "type": 1,
+    "description": "container image for qa-supervisor",
+    "name": "qa-supervisor",
+    "title": "M3_Edge_qa-supervisor",
     "image": "registry.m3-solutions.io:8443/qa-supervisor",
     "categories": [],
     "restart_policy": "always",
@@ -1776,6 +1989,9 @@
   },
   {
     "type": 1,
+    "description": "container image for rosco-app-image-x86_64",
+    "name": "rosco-app-image-x86_64",
+    "title": "M3_Edge_rosco-app-image-x86_64",
     "image": "registry.m3-solutions.io:8443/rosco-app-image-x86_64",
     "categories": [],
     "restart_policy": "always",
@@ -1801,6 +2017,9 @@
   },
   {
     "type": 1,
+    "description": "container image for rosco-engines-image-x86_64",
+    "name": "rosco-engines-image-x86_64",
+    "title": "M3_Edge_rosco-engines-image-x86_64",
     "image": "registry.m3-solutions.io:8443/rosco-engines-image-x86_64",
     "categories": [],
     "restart_policy": "always",
@@ -1826,6 +2045,9 @@
   },
   {
     "type": 1,
+    "description": "container image for rosco-operations-app-image-x86_64",
+    "name": "rosco-operations-app-image-x86_64",
+    "title": "M3_Edge_rosco-operations-app-image-x86_64",
     "image": "registry.m3-solutions.io:8443/rosco-operations-app-image-x86_64",
     "categories": [],
     "restart_policy": "always",
@@ -1851,6 +2073,9 @@
   },
   {
     "type": 1,
+    "description": "container image for rosco-runtimebackend-image-x86_64",
+    "name": "rosco-runtimebackend-image-x86_64",
+    "title": "M3_Edge_rosco-runtimebackend-image-x86_64",
     "image": "registry.m3-solutions.io:8443/rosco-runtimebackend-image-x86_64",
     "categories": [],
     "restart_policy": "always",
@@ -1876,6 +2101,9 @@
   },
   {
     "type": 1,
+    "description": "container image for sample-cspagent-ahmad-x86_64",
+    "name": "sample-cspagent-ahmad-x86_64",
+    "title": "M3_Edge_sample-cspagent-ahmad-x86_64",
     "image": "registry.m3-solutions.io:8443/sample-cspagent-ahmad-x86_64",
     "categories": [],
     "restart_policy": "always",
@@ -1901,6 +2129,9 @@
   },
   {
     "type": 1,
+    "description": "container image for sample-cspagent-hello",
+    "name": "sample-cspagent-hello",
+    "title": "M3_Edge_sample-cspagent-hello",
     "image": "registry.m3-solutions.io:8443/sample-cspagent-hello",
     "categories": [],
     "restart_policy": "always",
@@ -1926,6 +2157,9 @@
   },
   {
     "type": 1,
+    "description": "container image for sample-cspagent-hello-x86_64",
+    "name": "sample-cspagent-hello-x86_64",
+    "title": "M3_Edge_sample-cspagent-hello-x86_64",
     "image": "registry.m3-solutions.io:8443/sample-cspagent-hello-x86_64",
     "categories": [],
     "restart_policy": "always",
@@ -1951,6 +2185,9 @@
   },
   {
     "type": 1,
+    "description": "container image for sample-dotnet-x86_64",
+    "name": "sample-dotnet-x86_64",
+    "title": "M3_Edge_sample-dotnet-x86_64",
     "image": "registry.m3-solutions.io:8443/sample-dotnet-x86_64",
     "categories": [],
     "restart_policy": "always",
@@ -1976,6 +2213,9 @@
   },
   {
     "type": 1,
+    "description": "container image for sample-eapps-download-x86_64",
+    "name": "sample-eapps-download-x86_64",
+    "title": "M3_Edge_sample-eapps-download-x86_64",
     "image": "registry.m3-solutions.io:8443/sample-eapps-download-x86_64",
     "categories": [],
     "restart_policy": "always",
@@ -2001,6 +2241,9 @@
   },
   {
     "type": 1,
+    "description": "container image for sample-eapps-mosquitto-x86_64",
+    "name": "sample-eapps-mosquitto-x86_64",
+    "title": "M3_Edge_sample-eapps-mosquitto-x86_64",
     "image": "registry.m3-solutions.io:8443/sample-eapps-mosquitto-x86_64",
     "categories": [],
     "restart_policy": "always",
@@ -2026,6 +2269,9 @@
   },
   {
     "type": 1,
+    "description": "container image for sample-eapps-mqttconnector-x86_64",
+    "name": "sample-eapps-mqttconnector-x86_64",
+    "title": "M3_Edge_sample-eapps-mqttconnector-x86_64",
     "image": "registry.m3-solutions.io:8443/sample-eapps-mqttconnector-x86_64",
     "categories": [],
     "restart_policy": "always",
@@ -2051,6 +2297,9 @@
   },
   {
     "type": 1,
+    "description": "container image for sample-eapps-qatest-mosquitto-x86_64",
+    "name": "sample-eapps-qatest-mosquitto-x86_64",
+    "title": "M3_Edge_sample-eapps-qatest-mosquitto-x86_64",
     "image": "registry.m3-solutions.io:8443/sample-eapps-qatest-mosquitto-x86_64",
     "categories": [],
     "restart_policy": "always",
@@ -2076,6 +2325,9 @@
   },
   {
     "type": 1,
+    "description": "container image for sample-eapps-testapp-x86_64",
+    "name": "sample-eapps-testapp-x86_64",
+    "title": "M3_Edge_sample-eapps-testapp-x86_64",
     "image": "registry.m3-solutions.io:8443/sample-eapps-testapp-x86_64",
     "categories": [],
     "restart_policy": "always",
@@ -2101,6 +2353,9 @@
   },
   {
     "type": 1,
+    "description": "container image for sample-eapps-upload-x86_64",
+    "name": "sample-eapps-upload-x86_64",
+    "title": "M3_Edge_sample-eapps-upload-x86_64",
     "image": "registry.m3-solutions.io:8443/sample-eapps-upload-x86_64",
     "categories": [],
     "restart_policy": "always",
@@ -2126,6 +2381,9 @@
   },
   {
     "type": 1,
+    "description": "container image for sisocom-controller-image-x86_64",
+    "name": "sisocom-controller-image-x86_64",
+    "title": "M3_Edge_sisocom-controller-image-x86_64",
     "image": "registry.m3-solutions.io:8443/sisocom-controller-image-x86_64",
     "categories": [],
     "restart_policy": "always",
@@ -2151,6 +2409,9 @@
   },
   {
     "type": 1,
+    "description": "container image for sisocom-event-detector-image-x86_64",
+    "name": "sisocom-event-detector-image-x86_64",
+    "title": "M3_Edge_sisocom-event-detector-image-x86_64",
     "image": "registry.m3-solutions.io:8443/sisocom-event-detector-image-x86_64",
     "categories": [],
     "restart_policy": "always",
@@ -2176,6 +2437,9 @@
   },
   {
     "type": 1,
+    "description": "container image for sisocom-feature-extractor-image-x86_64",
+    "name": "sisocom-feature-extractor-image-x86_64",
+    "title": "M3_Edge_sisocom-feature-extractor-image-x86_64",
     "image": "registry.m3-solutions.io:8443/sisocom-feature-extractor-image-x86_64",
     "categories": [],
     "restart_policy": "always",
@@ -2201,6 +2465,9 @@
   },
   {
     "type": 1,
+    "description": "container image for sisocom-simulator-image-x86_64",
+    "name": "sisocom-simulator-image-x86_64",
+    "title": "M3_Edge_sisocom-simulator-image-x86_64",
     "image": "registry.m3-solutions.io:8443/sisocom-simulator-image-x86_64",
     "categories": [],
     "restart_policy": "always",
@@ -2226,6 +2493,9 @@
   },
   {
     "type": 1,
+    "description": "container image for sisocom-time-series-aggregator-image-x86_64",
+    "name": "sisocom-time-series-aggregator-image-x86_64",
+    "title": "M3_Edge_sisocom-time-series-aggregator-image-x86_64",
     "image": "registry.m3-solutions.io:8443/sisocom-time-series-aggregator-image-x86_64",
     "categories": [],
     "restart_policy": "always",
@@ -2251,6 +2521,9 @@
   },
   {
     "type": 1,
+    "description": "container image for smart-message-bus-x86_64",
+    "name": "smart-message-bus-x86_64",
+    "title": "M3_Edge_smart-message-bus-x86_64",
     "image": "registry.m3-solutions.io:8443/smart-message-bus-x86_64",
     "categories": [],
     "restart_policy": "always",
@@ -2276,6 +2549,9 @@
   },
   {
     "type": 1,
+    "description": "container image for tensorflow-image",
+    "name": "tensorflow-image",
+    "title": "M3_Edge_tensorflow-image",
     "image": "registry.m3-solutions.io:8443/tensorflow-image",
     "categories": [],
     "restart_policy": "always",
@@ -2301,6 +2577,9 @@
   },
   {
     "type": 1,
+    "description": "container image for tensorflow-py-image",
+    "name": "tensorflow-py-image",
+    "title": "M3_Edge_tensorflow-py-image",
     "image": "registry.m3-solutions.io:8443/tensorflow-py-image",
     "categories": [],
     "restart_policy": "always",
@@ -2326,6 +2605,9 @@
   },
   {
     "type": 1,
+    "description": "container image for valve-mqtt-bridge-image",
+    "name": "valve-mqtt-bridge-image",
+    "title": "M3_Edge_valve-mqtt-bridge-image",
     "image": "registry.m3-solutions.io:8443/valve-mqtt-bridge-image",
     "categories": [],
     "restart_policy": "always",
@@ -2351,6 +2633,9 @@
   },
   {
     "type": 1,
+    "description": "container image for valve-mqtt-bridge-image-x86_64",
+    "name": "valve-mqtt-bridge-image-x86_64",
+    "title": "M3_Edge_valve-mqtt-bridge-image-x86_64",
     "image": "registry.m3-solutions.io:8443/valve-mqtt-bridge-image-x86_64",
     "categories": [],
     "restart_policy": "always",
@@ -2376,6 +2661,9 @@
   },
   {
     "type": 1,
+    "description": "container image for video-controller-image-x86_64",
+    "name": "video-controller-image-x86_64",
+    "title": "M3_Edge_video-controller-image-x86_64",
     "image": "registry.m3-solutions.io:8443/video-controller-image-x86_64",
     "categories": [],
     "restart_policy": "always",
@@ -2401,6 +2689,9 @@
   },
   {
     "type": 1,
+    "description": "container image for video-inference-image",
+    "name": "video-inference-image",
+    "title": "M3_Edge_video-inference-image",
     "image": "registry.m3-solutions.io:8443/video-inference-image",
     "categories": [],
     "restart_policy": "always",
@@ -2426,6 +2717,9 @@
   },
   {
     "type": 1,
+    "description": "container image for video-inference-image-x86_64",
+    "name": "video-inference-image-x86_64",
+    "title": "M3_Edge_video-inference-image-x86_64",
     "image": "registry.m3-solutions.io:8443/video-inference-image-x86_64",
     "categories": [],
     "restart_policy": "always",
@@ -2451,6 +2745,9 @@
   },
   {
     "type": 1,
+    "description": "container image for video-inference-middleware-image-x86_64",
+    "name": "video-inference-middleware-image-x86_64",
+    "title": "M3_Edge_video-inference-middleware-image-x86_64",
     "image": "registry.m3-solutions.io:8443/video-inference-middleware-image-x86_64",
     "categories": [],
     "restart_policy": "always",
@@ -2476,6 +2773,9 @@
   },
   {
     "type": 1,
+    "description": "container image for video-inference-neo-image-x86_64",
+    "name": "video-inference-neo-image-x86_64",
+    "title": "M3_Edge_video-inference-neo-image-x86_64",
     "image": "registry.m3-solutions.io:8443/video-inference-neo-image-x86_64",
     "categories": [],
     "restart_policy": "always",
