@@ -1104,7 +1104,8 @@
     "ports": [
       {
         "TLS": "8884:8884/tcp"
-      }],
+      }
+    ],
     "volumes": [
       {
         "container": "/var/run/docker.sock",
