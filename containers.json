@@ -2,11 +2,11 @@
   {
     "type": 1,
     "platform": "linux",
-    "description": "container image for atc-demo",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "atc-demo",
-    "title": "M3_Edge_atc-demo",
-    "image": "registry.m3-solutions.io:8443/atc-demo",
+    "description": " ATC 1.1 is a Managed Application",
+    "logo": "https://raw.githubusercontent.com/intigration/docker-hub/master/docker.png",
+    "name": "ATC Controller- mqtt",
+    "title": "ATC 1.1",
+    "image": "registry.m3-solutions.io:8443/ATC 1.1",
     "categories": [
       "Other",
       "Tools"
@@ -35,11 +35,11 @@
   {
     "type": 1,
     "platform": "linux",
-    "description": "container image for atc-demo-coap",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "atc-demo-coap",
-    "title": "M3_Edge_atc-demo-coap",
-    "image": "registry.m3-solutions.io:8443/atc-demo-coap",
+    "description": " ATC 1.3 is a Managed Application",
+    "logo": "https://raw.githubusercontent.com/intigration/docker-hub/master/docker.png",
+    "name": "ATC Controller- mqtt",
+    "title": "ATC 1.3",
+    "image": "registry.m3-solutions.io:8443/ATC 1.3",
     "categories": [
       "Other",
       "Tools"
@@ -68,11 +68,11 @@
   {
     "type": 1,
     "platform": "linux",
-    "description": "container image for atc-demo-coap-x86_64",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "atc-demo-coap-x86_64",
-    "title": "M3_Edge_atc-demo-coap-x86_64",
-    "image": "registry.m3-solutions.io:8443/atc-demo-coap-x86_64",
+    "description": " audio_compressor_1.0 is a Managed Application",
+    "logo": "https://raw.githubusercontent.com/intigration/docker-hub/master/docker.png",
+    "name": "Audio Compressor Application",
+    "title": "audio_compressor_1.0",
+    "image": "registry.m3-solutions.io:8443/audio_compressor_1.0",
     "categories": [
       "Other",
       "Tools"
@@ -101,11 +101,11 @@
   {
     "type": 1,
     "platform": "linux",
-    "description": "container image for atc-demo-x86-64-x86_64",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "atc-demo-x86-64-x86_64",
-    "title": "M3_Edge_atc-demo-x86-64-x86_64",
-    "image": "registry.m3-solutions.io:8443/atc-demo-x86-64-x86_64",
+    "description": " Audio Stream Filer v1.0 is a Managed Application",
+    "logo": "https://raw.githubusercontent.com/intigration/docker-hub/master/docker.png",
+    "name": "Audio Stream Filer",
+    "title": "Audio Stream Filer v1.0",
+    "image": "registry.m3-solutions.io:8443/Audio Stream Filer v1.0",
     "categories": [
       "Other",
       "Tools"
@@ -134,11 +134,11 @@
   {
     "type": 1,
     "platform": "linux",
-    "description": "container image for atc-demo-x86_64",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "atc-demo-x86_64",
-    "title": "M3_Edge_atc-demo-x86_64",
-    "image": "registry.m3-solutions.io:8443/atc-demo-x86_64",
+    "description": "  registry.m3-solutions.io:8443/qa-sanity-deployer:alpha is a Unmanaged",
+    "logo": "https://raw.githubusercontent.com/intigration/docker-hub/master/docker.png",
+    "name": "Automation for Application Deployment & Management services",
+    "title": " registry.m3-solutions.io:8443/qa-sanity-deployer:alpha",
+    "image": "registry.m3-solutions.io:8443/ registry.m3-solutions.io:8443/qa-sanity-deployer:alpha",
     "categories": [
       "Other",
       "Tools"
@@ -167,11 +167,11 @@
   {
     "type": 1,
     "platform": "linux",
-    "description": "container image for audio-classifier-image",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "audio-classifier-image",
-    "title": "M3_Edge_audio-classifier-image",
-    "image": "registry.m3-solutions.io:8443/audio-classifier-image",
+    "description": " dotnet sample v1.0 is a Managed Application",
+    "logo": "https://raw.githubusercontent.com/intigration/docker-hub/master/docker.png",
+    "name": "C# .NET CSP Sample Application",
+    "title": "dotnet sample v1.0",
+    "image": "registry.m3-solutions.io:8443/dotnet sample v1.0",
     "categories": [
       "Other",
       "Tools"
@@ -200,11 +200,11 @@
   {
     "type": 1,
     "platform": "linux",
-    "description": "container image for audio-classifier-image-x86_64",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "audio-classifier-image-x86_64",
-    "title": "M3_Edge_audio-classifier-image-x86_64",
-    "image": "registry.m3-solutions.io:8443/audio-classifier-image-x86_64",
+    "description": " eapps-dev-test-image:1.0 is a Managed Application",
+    "logo": "https://raw.githubusercontent.com/intigration/docker-hub/master/docker.png",
+    "name": "Development Testing Application",
+    "title": "eapps-dev-test-image:1.0",
+    "image": "registry.m3-solutions.io:8443/eapps-dev-test-image:1.0",
     "categories": [
       "Other",
       "Tools"
@@ -233,11 +233,11 @@
   {
     "type": 1,
     "platform": "linux",
-    "description": "container image for audio-classifier-neo-image-x86_64",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "audio-classifier-neo-image-x86_64",
-    "title": "M3_Edge_audio-classifier-neo-image-x86_64",
-    "image": "registry.m3-solutions.io:8443/audio-classifier-neo-image-x86_64",
+    "description": " Event-Logger_1.0 is a Managed Application",
+    "logo": "https://raw.githubusercontent.com/intigration/docker-hub/master/docker.png",
+    "name": "Event Logger",
+    "title": "Event-Logger_1.0",
+    "image": "registry.m3-solutions.io:8443/Event-Logger_1.0",
     "categories": [
       "Other",
       "Tools"
@@ -266,11 +266,11 @@
   {
     "type": 1,
     "platform": "linux",
-    "description": "container image for audio-compressor-x86_64",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "audio-compressor-x86_64",
-    "title": "M3_Edge_audio-compressor-x86_64",
-    "image": "registry.m3-solutions.io:8443/audio-compressor-x86_64",
+    "description": " I3S-Mqtt-NetworkIO-1.0 is a Managed Application",
+    "logo": "https://raw.githubusercontent.com/intigration/docker-hub/master/docker.png",
+    "name": "I3S Mqtt Network I/O Generator",
+    "title": "I3S-Mqtt-NetworkIO-1.0",
+    "image": "registry.m3-solutions.io:8443/I3S-Mqtt-NetworkIO-1.0",
     "categories": [
       "Other",
       "Tools"
@@ -299,11 +299,11 @@
   {
     "type": 1,
     "platform": "linux",
-    "description": "container image for audio-filer-image-x86_64",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "audio-filer-image-x86_64",
-    "title": "M3_Edge_audio-filer-image-x86_64",
-    "image": "registry.m3-solutions.io:8443/audio-filer-image-x86_64",
+    "description": " Krill Controller 1.0 is a Managed Application",
+    "logo": "https://raw.githubusercontent.com/intigration/docker-hub/master/docker.png",
+    "name": "Krill acoustic sensor(s) controller (d)",
+    "title": "Krill Controller 1.0",
+    "image": "registry.m3-solutions.io:8443/Krill Controller 1.0",
     "categories": [
       "Other",
       "Tools"
@@ -332,11 +332,11 @@
   {
     "type": 1,
     "platform": "linux",
-    "description": "container image for busybox",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "busybox",
-    "title": "M3_Edge_busybox",
-    "image": "registry.m3-solutions.io:8443/busybox",
+    "description": " M3 Generic Mote Controller 1.0 is a Managed Application",
+    "logo": "https://raw.githubusercontent.com/intigration/docker-hub/master/docker.png",
+    "name": "M3 Generic Mote Controller",
+    "title": "M3 Generic Mote Controller 1.0",
+    "image": "registry.m3-solutions.io:8443/M3 Generic Mote Controller 1.0",
     "categories": [
       "Other",
       "Tools"
@@ -365,11 +365,11 @@
   {
     "type": 1,
     "platform": "linux",
-    "description": "container image for channels",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "channels",
-    "title": "M3_Edge_channels",
-    "image": "registry.m3-solutions.io:8443/channels",
+    "description": " Core 1.0.0 is a Managed Application",
+    "logo": "https://raw.githubusercontent.com/intigration/docker-hub/master/docker.png",
+    "name": "MLFM Core",
+    "title": "Core 1.0.0",
+    "image": "registry.m3-solutions.io:8443/Core 1.0.0",
     "categories": [
       "Other",
       "Tools"
@@ -398,11 +398,11 @@
   {
     "type": 1,
     "platform": "linux",
-    "description": "container image for classifier-simulator-image",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "classifier-simulator-image",
-    "title": "M3_Edge_classifier-simulator-image",
-    "image": "registry.m3-solutions.io:8443/classifier-simulator-image",
+    "description": " Managed-MQTT-Broker 1.3 is a Managed Application",
+    "logo": "https://raw.githubusercontent.com/intigration/docker-hub/master/docker.png",
+    "name": "Message Bus for Multi-tiered Setups",
+    "title": "Managed-MQTT-Broker 1.3",
+    "image": "registry.m3-solutions.io:8443/Managed-MQTT-Broker 1.3",
     "categories": [
       "Other",
       "Tools"
@@ -431,11 +431,11 @@
   {
     "type": 1,
     "platform": "linux",
-    "description": "container image for classifier-simulator-image-x86_64",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "classifier-simulator-image-x86_64",
-    "title": "M3_Edge_classifier-simulator-image-x86_64",
-    "image": "registry.m3-solutions.io:8443/classifier-simulator-image-x86_64",
+    "description": " Proxy 1.0 is a Managed Application",
+    "logo": "https://raw.githubusercontent.com/intigration/docker-hub/master/docker.png",
+    "name": "Proxy CSP Embedded Managed Application",
+    "title": "Proxy 1.0",
+    "image": "registry.m3-solutions.io:8443/Proxy 1.0",
     "categories": [
       "Other",
       "Tools"
@@ -464,11 +464,11 @@
   {
     "type": 1,
     "platform": "linux",
-    "description": "container image for core",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "core",
-    "title": "M3_Edge_core",
-    "image": "registry.m3-solutions.io:8443/core",
+    "description": " 1.0.0 is a Managed Application",
+    "logo": "https://raw.githubusercontent.com/intigration/docker-hub/master/docker.png",
+    "name": "QA CcChannels",
+    "title": "1.0.0",
+    "image": "registry.m3-solutions.io:8443/1.0.0",
     "categories": [
       "Other",
       "Tools"
@@ -497,11 +497,11 @@
   {
     "type": 1,
     "platform": "linux",
-    "description": "container image for csp-eapps-microservice-x86_64",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "csp-eapps-microservice-x86_64",
-    "title": "M3_Edge_csp-eapps-microservice-x86_64",
-    "image": "registry.m3-solutions.io:8443/csp-eapps-microservice-x86_64",
+    "description": " 0.1 is a Managed Application",
+    "logo": "https://raw.githubusercontent.com/intigration/docker-hub/master/docker.png",
+    "name": "QA-AFE ( Acoustic Feature Extractor )",
+    "title": "0.1",
+    "image": "registry.m3-solutions.io:8443/0.1",
     "categories": [
       "Other",
       "Tools"
@@ -530,11 +530,11 @@
   {
     "type": 1,
     "platform": "linux",
-    "description": "container image for csp-eapps-proxy-x86_64",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "csp-eapps-proxy-x86_64",
-    "title": "M3_Edge_csp-eapps-proxy-x86_64",
-    "image": "registry.m3-solutions.io:8443/csp-eapps-proxy-x86_64",
+    "description": " EIP Base App 0.1 is a Managed Application",
+    "logo": "https://raw.githubusercontent.com/intigration/docker-hub/master/docker.png",
+    "name": "SiESoCom EIP Base Application 0.1",
+    "title": "EIP Base App 0.1",
+    "image": "registry.m3-solutions.io:8443/EIP Base App 0.1",
     "categories": [
       "Other",
       "Tools"
@@ -563,11 +563,11 @@
   {
     "type": 1,
     "platform": "linux",
-    "description": "container image for csp-iotdata-microservice-x86_64",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "csp-iotdata-microservice-x86_64",
-    "title": "M3_Edge_csp-iotdata-microservice-x86_64",
-    "image": "registry.m3-solutions.io:8443/csp-iotdata-microservice-x86_64",
+    "description": " SiSoCom Classifier Simulator 1.0 is a Managed Application",
+    "logo": "https://raw.githubusercontent.com/intigration/docker-hub/master/docker.png",
+    "name": "SiSoCom Classifier Simulator",
+    "title": "SiSoCom Classifier Simulator 1.0",
+    "image": "registry.m3-solutions.io:8443/SiSoCom Classifier Simulator 1.0",
     "categories": [
       "Other",
       "Tools"
@@ -596,11 +596,11 @@
   {
     "type": 1,
     "platform": "linux",
-    "description": "container image for csp-iotevent-microservice-x86_64",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "csp-iotevent-microservice-x86_64",
-    "title": "M3_Edge_csp-iotevent-microservice-x86_64",
-    "image": "registry.m3-solutions.io:8443/csp-iotevent-microservice-x86_64",
+    "description": " SiSoCom Controller 1.0 is a Managed Application",
+    "logo": "https://raw.githubusercontent.com/intigration/docker-hub/master/docker.png",
+    "name": "SiSoCom Controller",
+    "title": "SiSoCom Controller 1.0",
+    "image": "registry.m3-solutions.io:8443/SiSoCom Controller 1.0",
     "categories": [
       "Other",
       "Tools"
@@ -629,11 +629,11 @@
   {
     "type": 1,
     "platform": "linux",
-    "description": "container image for cspagent-context-teller-x86_64",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "cspagent-context-teller-x86_64",
-    "title": "M3_Edge_cspagent-context-teller-x86_64",
-    "image": "registry.m3-solutions.io:8443/cspagent-context-teller-x86_64",
+    "description": " SiSoCom Time Series Aggregator 1.0 is a Managed Application",
+    "logo": "https://raw.githubusercontent.com/intigration/docker-hub/master/docker.png",
+    "name": "SiSoCom Time-Series Aggregator",
+    "title": "SiSoCom Time Series Aggregator 1.0",
+    "image": "registry.m3-solutions.io:8443/SiSoCom Time Series Aggregator 1.0",
     "categories": [
       "Other",
       "Tools"
@@ -662,11 +662,11 @@
   {
     "type": 1,
     "platform": "linux",
-    "description": "container image for dlr-image-x86_64",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "dlr-image-x86_64",
-    "title": "M3_Edge_dlr-image-x86_64",
-    "image": "registry.m3-solutions.io:8443/dlr-image-x86_64",
+    "description": " ATC 1.1 is a Managed Application",
+    "logo": "https://raw.githubusercontent.com/intigration/docker-hub/master/docker.png",
+    "name": "ATC Controller- mqtt",
+    "title": "ATC 1.1",
+    "image": "registry.m3-solutions.io:8443/ATC 1.1",
     "categories": [
       "Other",
       "Tools"
@@ -695,11 +695,11 @@
   {
     "type": 1,
     "platform": "linux",
-    "description": "container image for eapps-db",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "eapps-db",
-    "title": "M3_Edge_eapps-db",
-    "image": "registry.m3-solutions.io:8443/eapps-db",
+    "description": " ATC 1.3 is a Managed Application",
+    "logo": "https://raw.githubusercontent.com/intigration/docker-hub/master/docker.png",
+    "name": "ATC Controller- mqtt",
+    "title": "ATC 1.3",
+    "image": "registry.m3-solutions.io:8443/ATC 1.3",
     "categories": [
       "Other",
       "Tools"
@@ -728,11 +728,11 @@
   {
     "type": 1,
     "platform": "linux",
-    "description": "container image for eapps-db-aarch64",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "eapps-db-aarch64",
-    "title": "M3_Edge_eapps-db-aarch64",
-    "image": "registry.m3-solutions.io:8443/eapps-db-aarch64",
+    "description": " audio_compressor_1.0 is a Managed Application",
+    "logo": "https://raw.githubusercontent.com/intigration/docker-hub/master/docker.png",
+    "name": "Audio Compressor Application",
+    "title": "audio_compressor_1.0",
+    "image": "registry.m3-solutions.io:8443/audio_compressor_1.0",
     "categories": [
       "Other",
       "Tools"
@@ -761,11 +761,11 @@
   {
     "type": 1,
     "platform": "linux",
-    "description": "container image for eapps-db-x86_64",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "eapps-db-x86_64",
-    "title": "M3_Edge_eapps-db-x86_64",
-    "image": "registry.m3-solutions.io:8443/eapps-db-x86_64",
+    "description": "  registry.m3-solutions.io:8443/qa-sanity-deployer:alpha is a Unmanaged",
+    "logo": "https://raw.githubusercontent.com/intigration/docker-hub/master/docker.png",
+    "name": "Automation for Application Deployment & Management services",
+    "title": " registry.m3-solutions.io:8443/qa-sanity-deployer:alpha",
+    "image": "registry.m3-solutions.io:8443/ registry.m3-solutions.io:8443/qa-sanity-deployer:alpha",
     "categories": [
       "Other",
       "Tools"
@@ -794,11 +794,11 @@
   {
     "type": 1,
     "platform": "linux",
-    "description": "container image for eapps-dbclient",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "eapps-dbclient",
-    "title": "M3_Edge_eapps-dbclient",
-    "image": "registry.m3-solutions.io:8443/eapps-dbclient",
+    "description": " dotnet sample v1.0 is a Managed Application",
+    "logo": "https://raw.githubusercontent.com/intigration/docker-hub/master/docker.png",
+    "name": "C# .NET CSP Sample Application",
+    "title": "dotnet sample v1.0",
+    "image": "registry.m3-solutions.io:8443/dotnet sample v1.0",
     "categories": [
       "Other",
       "Tools"
@@ -827,11 +827,11 @@
   {
     "type": 1,
     "platform": "linux",
-    "description": "container image for eapps-dev-test-image",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "eapps-dev-test-image",
-    "title": "M3_Edge_eapps-dev-test-image",
-    "image": "registry.m3-solutions.io:8443/eapps-dev-test-image",
+    "description": " eapps-dev-test-image:1.0 is a Managed Application",
+    "logo": "https://raw.githubusercontent.com/intigration/docker-hub/master/docker.png",
+    "name": "Development Testing Application",
+    "title": "eapps-dev-test-image:1.0",
+    "image": "registry.m3-solutions.io:8443/eapps-dev-test-image:1.0",
     "categories": [
       "Other",
       "Tools"
@@ -860,11 +860,11 @@
   {
     "type": 1,
     "platform": "linux",
-    "description": "container image for eapps-dev-test-image-x86_64",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "eapps-dev-test-image-x86_64",
-    "title": "M3_Edge_eapps-dev-test-image-x86_64",
-    "image": "registry.m3-solutions.io:8443/eapps-dev-test-image-x86_64",
+    "description": " Event-Logger_1.0 is a Managed Application",
+    "logo": "https://raw.githubusercontent.com/intigration/docker-hub/master/docker.png",
+    "name": "Event Logger",
+    "title": "Event-Logger_1.0",
+    "image": "registry.m3-solutions.io:8443/Event-Logger_1.0",
     "categories": [
       "Other",
       "Tools"
@@ -893,11 +893,11 @@
   {
     "type": 1,
     "platform": "linux",
-    "description": "container image for eapps-download-test",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "eapps-download-test",
-    "title": "M3_Edge_eapps-download-test",
-    "image": "registry.m3-solutions.io:8443/eapps-download-test",
+    "description": " I3S-Mqtt-NetworkIO-1.0 is a Managed Application",
+    "logo": "https://raw.githubusercontent.com/intigration/docker-hub/master/docker.png",
+    "name": "I3S Mqtt Network I/O Generator",
+    "title": "I3S-Mqtt-NetworkIO-1.0",
+    "image": "registry.m3-solutions.io:8443/I3S-Mqtt-NetworkIO-1.0",
     "categories": [
       "Other",
       "Tools"
@@ -926,11 +926,11 @@
   {
     "type": 1,
     "platform": "linux",
-    "description": "container image for eapps-managed-broker-test",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "eapps-managed-broker-test",
-    "title": "M3_Edge_eapps-managed-broker-test",
-    "image": "registry.m3-solutions.io:8443/eapps-managed-broker-test",
+    "description": " M3 Generic Mote Controller 1.0 is a Managed Application",
+    "logo": "https://raw.githubusercontent.com/intigration/docker-hub/master/docker.png",
+    "name": "M3 Generic Mote Controller",
+    "title": "M3 Generic Mote Controller 1.0",
+    "image": "registry.m3-solutions.io:8443/M3 Generic Mote Controller 1.0",
     "categories": [
       "Other",
       "Tools"
@@ -959,11 +959,11 @@
   {
     "type": 1,
     "platform": "linux",
-    "description": "container image for eapps-upload-test",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "eapps-upload-test",
-    "title": "M3_Edge_eapps-upload-test",
-    "image": "registry.m3-solutions.io:8443/eapps-upload-test",
+    "description": " Managed-MQTT-Broker 1.3 is a Managed Application",
+    "logo": "https://raw.githubusercontent.com/intigration/docker-hub/master/docker.png",
+    "name": "Message Bus for Multi-tiered Setups",
+    "title": "Managed-MQTT-Broker 1.3",
+    "image": "registry.m3-solutions.io:8443/Managed-MQTT-Broker 1.3",
     "categories": [
       "Other",
       "Tools"
@@ -992,11 +992,11 @@
   {
     "type": 1,
     "platform": "linux",
-    "description": "container image for event-logger-x86_64",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "event-logger-x86_64",
-    "title": "M3_Edge_event-logger-x86_64",
-    "image": "registry.m3-solutions.io:8443/event-logger-x86_64",
+    "description": " Proxy 1.0 is a Managed Application",
+    "logo": "https://raw.githubusercontent.com/intigration/docker-hub/master/docker.png",
+    "name": "Proxy CSP Embedded Managed Application",
+    "title": "Proxy 1.0",
+    "image": "registry.m3-solutions.io:8443/Proxy 1.0",
     "categories": [
       "Other",
       "Tools"
@@ -1025,11 +1025,11 @@
   {
     "type": 1,
     "platform": "linux",
-    "description": "container image for generic-controller-image",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "generic-controller-image",
-    "title": "M3_Edge_generic-controller-image",
-    "image": "registry.m3-solutions.io:8443/generic-controller-image",
+    "description": " 1.0.0 is a Managed Application",
+    "logo": "https://raw.githubusercontent.com/intigration/docker-hub/master/docker.png",
+    "name": "QA CcChannels",
+    "title": "1.0.0",
+    "image": "registry.m3-solutions.io:8443/1.0.0",
     "categories": [
       "Other",
       "Tools"
@@ -1058,11 +1058,11 @@
   {
     "type": 1,
     "platform": "linux",
-    "description": "container image for generic-controller-image-x86_64",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "generic-controller-image-x86_64",
-    "title": "M3_Edge_generic-controller-image-x86_64",
-    "image": "registry.m3-solutions.io:8443/generic-controller-image-x86_64",
+    "description": " EIP Base App 0.1 is a Managed Application",
+    "logo": "https://raw.githubusercontent.com/intigration/docker-hub/master/docker.png",
+    "name": "SiESoCom EIP Base Application 0.1",
+    "title": "EIP Base App 0.1",
+    "image": "registry.m3-solutions.io:8443/EIP Base App 0.1",
     "categories": [
       "Other",
       "Tools"
@@ -1091,1205 +1091,20 @@
   {
     "type": 1,
     "platform": "linux",
-    "description": "container image for hamlet-controller-managed-image",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "hamlet-controller-managed-image",
-    "title": "M3_Edge_hamlet-controller-managed-image",
-    "image": "registry.m3-solutions.io:8443/hamlet-controller-managed-image",
+    "description": " Smart-MQTT-Broker 1.0 is a Managed Application",
+    "logo": "https://raw.githubusercontent.com/intigration/docker-hub/master/docker.png",
+    "name": "Smart Message Bus (DEV)",
+    "title": "Smart-MQTT-Broker 1.0",
+    "image": "registry.m3-solutions.io:8443/smart-message-bus-x86_64:v1",
     "categories": [
       "Other",
       "Tools"
     ],
     "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for hamlet-controller-managed-image-aarch64",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "hamlet-controller-managed-image-aarch64",
-    "title": "M3_Edge_hamlet-controller-managed-image-aarch64",
-    "image": "registry.m3-solutions.io:8443/hamlet-controller-managed-image-aarch64",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for hamlet-controller-managed-image-x86-x86_64",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "hamlet-controller-managed-image-x86-x86_64",
-    "title": "M3_Edge_hamlet-controller-managed-image-x86-x86_64",
-    "image": "registry.m3-solutions.io:8443/hamlet-controller-managed-image-x86-x86_64",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for hamlet-controller-managed-image-x86_64",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "hamlet-controller-managed-image-x86_64",
-    "title": "M3_Edge_hamlet-controller-managed-image-x86_64",
-    "image": "registry.m3-solutions.io:8443/hamlet-controller-managed-image-x86_64",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for hamlet-data-tenant-image",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "hamlet-data-tenant-image",
-    "title": "M3_Edge_hamlet-data-tenant-image",
-    "image": "registry.m3-solutions.io:8443/hamlet-data-tenant-image",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for hamlet-data-tenant-image-x86_64",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "hamlet-data-tenant-image-x86_64",
-    "title": "M3_Edge_hamlet-data-tenant-image-x86_64",
-    "image": "registry.m3-solutions.io:8443/hamlet-data-tenant-image-x86_64",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for hamlet-greengrass-image",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "hamlet-greengrass-image",
-    "title": "M3_Edge_hamlet-greengrass-image",
-    "image": "registry.m3-solutions.io:8443/hamlet-greengrass-image",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for hamlet-greengrass-image-x86_64",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "hamlet-greengrass-image-x86_64",
-    "title": "M3_Edge_hamlet-greengrass-image-x86_64",
-    "image": "registry.m3-solutions.io:8443/hamlet-greengrass-image-x86_64",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for hello-app",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "hello-app",
-    "title": "M3_Edge_hello-app",
-    "image": "registry.m3-solutions.io:8443/hello-app",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for i3s-dyn-loader",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "i3s-dyn-loader",
-    "title": "M3_Edge_i3s-dyn-loader",
-    "image": "registry.m3-solutions.io:8443/i3s-dyn-loader",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for i3s-dyn-loader-x86_64",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "i3s-dyn-loader-x86_64",
-    "title": "M3_Edge_i3s-dyn-loader-x86_64",
-    "image": "registry.m3-solutions.io:8443/i3s-dyn-loader-x86_64",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for i3s-network-data-generators-x86_64",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "i3s-network-data-generators-x86_64",
-    "title": "M3_Edge_i3s-network-data-generators-x86_64",
-    "image": "registry.m3-solutions.io:8443/i3s-network-data-generators-x86_64",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for icube-app-x86_64",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "icube-app-x86_64",
-    "title": "M3_Edge_icube-app-x86_64",
-    "image": "registry.m3-solutions.io:8443/icube-app-x86_64",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for icube-demo-x86_64",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "icube-demo-x86_64",
-    "title": "M3_Edge_icube-demo-x86_64",
-    "image": "registry.m3-solutions.io:8443/icube-demo-x86_64",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for krill-controller-image-x86_64",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "krill-controller-image-x86_64",
-    "title": "M3_Edge_krill-controller-image-x86_64",
-    "image": "registry.m3-solutions.io:8443/krill-controller-image-x86_64",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for m3-am-services",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "m3-am-services",
-    "title": "M3_Edge_m3-am-services",
-    "image": "registry.m3-solutions.io:8443/m3-am-services",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for m3-api-manager",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "m3-api-manager",
-    "title": "M3_Edge_m3-api-manager",
-    "image": "registry.m3-solutions.io:8443/m3-api-manager",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for m3-gateway-agent",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "m3-gateway-agent",
-    "title": "M3_Edge_m3-gateway-agent",
-    "image": "registry.m3-solutions.io:8443/m3-gateway-agent",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for m3-gateway-iiot-core",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "m3-gateway-iiot-core",
-    "title": "M3_Edge_m3-gateway-iiot-core",
-    "image": "registry.m3-solutions.io:8443/m3-gateway-iiot-core",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for managed-broker",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "managed-broker",
-    "title": "M3_Edge_managed-broker",
-    "image": "registry.m3-solutions.io:8443/managed-broker",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for managed-broker-aarch64",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "managed-broker-aarch64",
-    "title": "M3_Edge_managed-broker-aarch64",
-    "image": "registry.m3-solutions.io:8443/managed-broker-aarch64",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for managed-broker-huz-x86_64",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "managed-broker-huz-x86_64",
-    "title": "M3_Edge_managed-broker-huz-x86_64",
-    "image": "registry.m3-solutions.io:8443/managed-broker-huz-x86_64",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for managed-broker-x86_64",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "managed-broker-x86_64",
-    "title": "M3_Edge_managed-broker-x86_64",
-    "image": "registry.m3-solutions.io:8443/managed-broker-x86_64",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for message-bus-x86_64",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "message-bus-x86_64",
-    "title": "M3_Edge_message-bus-x86_64",
-    "image": "registry.m3-solutions.io:8443/message-bus-x86_64",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for nginx-x86_64",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "nginx-x86_64",
-    "title": "M3_Edge_nginx-x86_64",
-    "image": "registry.m3-solutions.io:8443/nginx-x86_64",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for node-eapp",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "node-eapp",
-    "title": "M3_Edge_node-eapp",
-    "image": "registry.m3-solutions.io:8443/node-eapp",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for node-red-x86_64",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "node-red-x86_64",
-    "title": "M3_Edge_node-red-x86_64",
-    "image": "registry.m3-solutions.io:8443/node-red-x86_64",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for onvif-client-openvino-x86_64",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "onvif-client-openvino-x86_64",
-    "title": "M3_Edge_onvif-client-openvino-x86_64",
-    "image": "registry.m3-solutions.io:8443/onvif-client-openvino-x86_64",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for openvino-classification-demo-image-x86_64",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "openvino-classification-demo-image-x86_64",
-    "title": "M3_Edge_openvino-classification-demo-image-x86_64",
-    "image": "registry.m3-solutions.io:8443/openvino-classification-demo-image-x86_64",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for openvino-python-x86_64",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "openvino-python-x86_64",
-    "title": "M3_Edge_openvino-python-x86_64",
-    "image": "registry.m3-solutions.io:8443/openvino-python-x86_64",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for ov-manager-x86_64",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "ov-manager-x86_64",
-    "title": "M3_Edge_ov-manager-x86_64",
-    "image": "registry.m3-solutions.io:8443/ov-manager-x86_64",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for python3",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "python3",
-    "title": "M3_Edge_python3",
-    "image": "registry.m3-solutions.io:8443/python3",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for qa-acoustic-feature-extractor",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "qa-acoustic-feature-extractor",
-    "title": "M3_Edge_qa-acoustic-feature-extractor",
-    "image": "registry.m3-solutions.io:8443/qa-acoustic-feature-extractor",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for qa-mlfm-core",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "qa-mlfm-core",
-    "title": "M3_Edge_qa-mlfm-core",
-    "image": "registry.m3-solutions.io:8443/qa-mlfm-core",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for qa-mlfm-kfpa",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "qa-mlfm-kfpa",
-    "title": "M3_Edge_qa-mlfm-kfpa",
-    "image": "registry.m3-solutions.io:8443/qa-mlfm-kfpa",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for qa-mlfm-ui",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "qa-mlfm-ui",
-    "title": "M3_Edge_qa-mlfm-ui",
-    "image": "registry.m3-solutions.io:8443/qa-mlfm-ui",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
+    "ports": [
       {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for qa-sanity-deployer",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "qa-sanity-deployer",
-    "title": "M3_Edge_qa-sanity-deployer",
-    "image": "registry.m3-solutions.io:8443/qa-sanity-deployer",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
+        "TLS": "8884:8884/tcp"
+      }],
     "volumes": [
       {
         "container": "/var/run/docker.sock",
@@ -2312,968 +1127,11 @@
   {
     "type": 1,
     "platform": "linux",
-    "description": "container image for qa-supervisor",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
+    "description": " v1 is a Managed Micro Services",
+    "logo": "https://raw.githubusercontent.com/intigration/docker-hub/master/docker.png",
     "name": "qa-supervisor",
-    "title": "M3_Edge_qa-supervisor",
-    "image": "registry.m3-solutions.io:8443/qa-supervisor",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for rosco-app-image-x86_64",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "rosco-app-image-x86_64",
-    "title": "M3_Edge_rosco-app-image-x86_64",
-    "image": "registry.m3-solutions.io:8443/rosco-app-image-x86_64",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for rosco-engines-image-x86_64",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "rosco-engines-image-x86_64",
-    "title": "M3_Edge_rosco-engines-image-x86_64",
-    "image": "registry.m3-solutions.io:8443/rosco-engines-image-x86_64",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for rosco-operations-app-image-x86_64",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "rosco-operations-app-image-x86_64",
-    "title": "M3_Edge_rosco-operations-app-image-x86_64",
-    "image": "registry.m3-solutions.io:8443/rosco-operations-app-image-x86_64",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for rosco-runtimebackend-image-x86_64",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "rosco-runtimebackend-image-x86_64",
-    "title": "M3_Edge_rosco-runtimebackend-image-x86_64",
-    "image": "registry.m3-solutions.io:8443/rosco-runtimebackend-image-x86_64",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for sample-cspagent-ahmad-x86_64",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "sample-cspagent-ahmad-x86_64",
-    "title": "M3_Edge_sample-cspagent-ahmad-x86_64",
-    "image": "registry.m3-solutions.io:8443/sample-cspagent-ahmad-x86_64",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for sample-cspagent-hello",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "sample-cspagent-hello",
-    "title": "M3_Edge_sample-cspagent-hello",
-    "image": "registry.m3-solutions.io:8443/sample-cspagent-hello",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for sample-cspagent-hello-x86_64",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "sample-cspagent-hello-x86_64",
-    "title": "M3_Edge_sample-cspagent-hello-x86_64",
-    "image": "registry.m3-solutions.io:8443/sample-cspagent-hello-x86_64",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for sample-dotnet-x86_64",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "sample-dotnet-x86_64",
-    "title": "M3_Edge_sample-dotnet-x86_64",
-    "image": "registry.m3-solutions.io:8443/sample-dotnet-x86_64",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for sample-eapps-download-x86_64",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "sample-eapps-download-x86_64",
-    "title": "M3_Edge_sample-eapps-download-x86_64",
-    "image": "registry.m3-solutions.io:8443/sample-eapps-download-x86_64",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for sample-eapps-mosquitto-x86_64",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "sample-eapps-mosquitto-x86_64",
-    "title": "M3_Edge_sample-eapps-mosquitto-x86_64",
-    "image": "registry.m3-solutions.io:8443/sample-eapps-mosquitto-x86_64",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for sample-eapps-mqttconnector-x86_64",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "sample-eapps-mqttconnector-x86_64",
-    "title": "M3_Edge_sample-eapps-mqttconnector-x86_64",
-    "image": "registry.m3-solutions.io:8443/sample-eapps-mqttconnector-x86_64",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for sample-eapps-qatest-mosquitto-x86_64",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "sample-eapps-qatest-mosquitto-x86_64",
-    "title": "M3_Edge_sample-eapps-qatest-mosquitto-x86_64",
-    "image": "registry.m3-solutions.io:8443/sample-eapps-qatest-mosquitto-x86_64",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for sample-eapps-testapp-x86_64",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "sample-eapps-testapp-x86_64",
-    "title": "M3_Edge_sample-eapps-testapp-x86_64",
-    "image": "registry.m3-solutions.io:8443/sample-eapps-testapp-x86_64",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for sample-eapps-upload-x86_64",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "sample-eapps-upload-x86_64",
-    "title": "M3_Edge_sample-eapps-upload-x86_64",
-    "image": "registry.m3-solutions.io:8443/sample-eapps-upload-x86_64",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for sisocom-controller-image-x86_64",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "sisocom-controller-image-x86_64",
-    "title": "M3_Edge_sisocom-controller-image-x86_64",
-    "image": "registry.m3-solutions.io:8443/sisocom-controller-image-x86_64",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for sisocom-event-detector-image-x86_64",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "sisocom-event-detector-image-x86_64",
-    "title": "M3_Edge_sisocom-event-detector-image-x86_64",
-    "image": "registry.m3-solutions.io:8443/sisocom-event-detector-image-x86_64",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for sisocom-feature-extractor-image-x86_64",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "sisocom-feature-extractor-image-x86_64",
-    "title": "M3_Edge_sisocom-feature-extractor-image-x86_64",
-    "image": "registry.m3-solutions.io:8443/sisocom-feature-extractor-image-x86_64",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for sisocom-simulator-image-x86_64",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "sisocom-simulator-image-x86_64",
-    "title": "M3_Edge_sisocom-simulator-image-x86_64",
-    "image": "registry.m3-solutions.io:8443/sisocom-simulator-image-x86_64",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for sisocom-time-series-aggregator-image-x86_64",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "sisocom-time-series-aggregator-image-x86_64",
-    "title": "M3_Edge_sisocom-time-series-aggregator-image-x86_64",
-    "image": "registry.m3-solutions.io:8443/sisocom-time-series-aggregator-image-x86_64",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for smart-message-bus-x86_64",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "smart-message-bus-x86_64",
-    "title": "M3_Edge_smart-message-bus-x86_64",
-    "image": "registry.m3-solutions.io:8443/smart-message-bus-x86_64",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for tensorflow-image",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "tensorflow-image",
-    "title": "M3_Edge_tensorflow-image",
-    "image": "registry.m3-solutions.io:8443/tensorflow-image",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for tensorflow-py-image",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "tensorflow-py-image",
-    "title": "M3_Edge_tensorflow-py-image",
-    "image": "registry.m3-solutions.io:8443/tensorflow-py-image",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for valve-mqtt-bridge-image",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "valve-mqtt-bridge-image",
-    "title": "M3_Edge_valve-mqtt-bridge-image",
-    "image": "registry.m3-solutions.io:8443/valve-mqtt-bridge-image",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for valve-mqtt-bridge-image-x86_64",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "valve-mqtt-bridge-image-x86_64",
-    "title": "M3_Edge_valve-mqtt-bridge-image-x86_64",
-    "image": "registry.m3-solutions.io:8443/valve-mqtt-bridge-image-x86_64",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for video-controller-image-x86_64",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "video-controller-image-x86_64",
-    "title": "M3_Edge_video-controller-image-x86_64",
-    "image": "registry.m3-solutions.io:8443/video-controller-image-x86_64",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for video-inference-image",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "video-inference-image",
-    "title": "M3_Edge_video-inference-image",
-    "image": "registry.m3-solutions.io:8443/video-inference-image",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for video-inference-image-x86_64",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "video-inference-image-x86_64",
-    "title": "M3_Edge_video-inference-image-x86_64",
-    "image": "registry.m3-solutions.io:8443/video-inference-image-x86_64",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for video-inference-middleware-image-x86_64",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "video-inference-middleware-image-x86_64",
-    "title": "M3_Edge_video-inference-middleware-image-x86_64",
-    "image": "registry.m3-solutions.io:8443/video-inference-middleware-image-x86_64",
-    "categories": [
-      "Other",
-      "Tools"
-    ],
-    "restart_policy": "always",
-    "ports": [],
-    "volumes": [
-      {
-        "container": "/var/run/docker.sock",
-        "bind": "/var/run/docker.sock"
-      }
-    ],
-    "env": [
-      {
-        "name": "PUID",
-        "label": "PUID",
-        "default": "!PUID"
-      },
-      {
-        "name": "PGID",
-        "label": "PGID",
-        "default": "!PGID"
-      }
-    ]
-  },
-  {
-    "type": 1,
-    "platform": "linux",
-    "description": "container image for video-inference-neo-image-x86_64",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/bitwarden.png",
-    "name": "video-inference-neo-image-x86_64",
-    "title": "M3_Edge_video-inference-neo-image-x86_64",
-    "image": "registry.m3-solutions.io:8443/video-inference-neo-image-x86_64",
+    "title": "v1",
+    "image": "registry.m3-solutions.io:8443/v1",
     "categories": [
       "Other",
       "Tools"
